@@ -1,5 +1,5 @@
 {
-  "name": "polupanov_test_composer",
+  "name": "polupanov/bhalper",
   "description": "polupanov_test_composer description",
   "license": "proprietary",
   "authors": [
@@ -18,5 +18,4 @@
   "autoload": {
     "classmap": ["src"]
   }
-
 }
